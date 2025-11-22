@@ -69,6 +69,6 @@ public class TestCase2 {
 
 	@AfterClass
 	public void tearDownClass() {
-		System.out.println("All search tests completed.");
+		System.out.println("All Case 2 tests completed.");
 	}
 }
